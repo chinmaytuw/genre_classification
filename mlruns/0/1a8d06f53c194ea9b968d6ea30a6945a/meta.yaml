@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/chinm/Desktop/Personal/Courses/Udacity/ml_devops/genre_classification/mlruns/0/1a8d06f53c194ea9b968d6ea30a6945a/artifacts
+end_time: 1652840914957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1a8d06f53c194ea9b968d6ea30a6945a
+run_uuid: 1a8d06f53c194ea9b968d6ea30a6945a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652840913669
+status: 4
+tags: []
+user_id: ctatwawadi

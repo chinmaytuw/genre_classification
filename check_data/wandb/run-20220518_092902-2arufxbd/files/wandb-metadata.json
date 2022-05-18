@@ -1,0 +1,33 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-18T16:29:02.860423",
+    "startedAt": "2022-05-18T16:29:02.056417",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060 Ti",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/chinmaytuw/genre_classification.git",
+        "commit": "d868b7d20827f92b81ce235facb560d4eec1389b"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/chinm/Desktop/Personal/Courses/Udacity/ml_devops/genre_classification",
+    "host": "kakarot",
+    "username": "ctatwawadi",
+    "executable": "/home/ctatwawadi/miniconda3/envs/mlflow-c86639da1eecf5a556ffdc9bec299b5662e80681/bin/python"
+}
